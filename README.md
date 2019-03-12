@@ -19,3 +19,4 @@ Bibliography:
 Useful links:
 1. Question and answer site for programmers: https://stackoverflow.com/
 2. Forum about technology, specialized in Java (in Portuguese): https://www.guj.com.br/
+3. Eclipse for Java EE: https://www.eclipse.org/downloads/
