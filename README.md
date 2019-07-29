@@ -3,7 +3,7 @@
 UFABC - Universidade Federal do ABC, Brazil
 Computer Science Undergraduate Program
 
-Web Programming Course with Java and a relational database (MySQL or H2)
+Web Programming Course with Java and a relational database (MySQL and/or H2)
 
 Original website (in Portuguese): http://professor.ufabc.edu.br/~leticia.bueno/classes/progweb-2014-3/
 
