@@ -1,4 +1,4 @@
-# Web-Programming
+# Web Programming
 
 ### UFABC - Universidade Federal do ABC, Brazil
 ### Computer Science Undergraduate Program
