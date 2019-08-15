@@ -2,11 +2,7 @@
 
 ### Computer Science Undergraduate Program
 
-<<<<<<< HEAD
-**Original website (in Portuguese):** http://professor.ufabc.edu.br/~leticia.bueno/classes/progweb-2014-3/
-=======
 [**Original website (in Portuguese)**](http://professor.ufabc.edu.br/~leticia.bueno/classes/progweb-2014-3/)
->>>>>>> fdcdd167f4cf294fcacfe7ed0f3c79aa3e572964
 
 **Requirement:** Data Structures and Algorithms 1; Object-Oriented Programming (OOP); Relational Databases.
 
